@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: #FCFFD2;
+}
+
+h1{
+  color: #1C76BD;
+  font-size: 7rem;
+}
+
+.form-control{
+  border-radius: 0px;
+  box-shadow: none;
+  border: none;
+  border-bottom: 1px solid #1C76BD;
+  background-color: transparent;
+}
+
+.container{
+  margin-top: 12%;
+}
+
+
+.btn-warning{
+  background-color: #1C76BD;
+  width: 25%;
+}
+.btn-warning:hover{
+  background-color: #eea236;
+  border: 1px solid #1C76BD;
+  width: 25%;
+}

@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background: #FCFFD2;
+}
+img{
+  height: 200px;
+}
+
+.jumbotron{
+  color: #1C76BD;
+  font-size: 5rem;
+}
+
+.btn{
+  background-color: #1C76BD;
+  width: 15%;
+}
+.btn:hover{
+  background-color: #eea236;
+  border: 1px solid #1C76BD;
+  width: 15%;
+}
+
+.form-control{
+  border-radius: 0px;
+  box-shadow: none;
+  border: none;
+  border-bottom: 1px solid #1C76BD;
+  background-color: transparent;
+}
